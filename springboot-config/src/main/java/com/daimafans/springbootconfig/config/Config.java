@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * @author liuqianfei
- * @since 2018/9/11 15:04
+ * @since 2018/9/11 13:04
  */
 @Component
 @ConfigurationProperties(prefix="config")
