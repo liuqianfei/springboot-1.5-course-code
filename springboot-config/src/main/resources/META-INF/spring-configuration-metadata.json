@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "blog.address",
+      "type": "java.lang.String",
+      "description": "博客地址"
+    },
+    {
+      "name": "blog.author",
+      "type": "java.lang.String",
+      "description": "作者"
+    },
+    {
+      "name": "blog.desc",
+      "type": "java.lang.String",
+      "description": "博客简介"
+    },
+    {
+      "name": "blog.info",
+      "type": "java.lang.String",
+      "description": "综合信息"
+    }
+  ]
+}
