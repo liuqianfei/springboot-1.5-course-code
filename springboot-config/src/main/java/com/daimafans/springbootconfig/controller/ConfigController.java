@@ -13,7 +13,7 @@ import com.daimafans.springbootconfig.config.Config;
  * SpringBoot 配置讲解
  *
  * @author liuqianfei
- * @since 2018/9/11 12:03
+ * @since 2018/9/11 13:13
  */
 @RestController
 public class ConfigController
